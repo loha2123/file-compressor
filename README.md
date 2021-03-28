@@ -6,3 +6,6 @@ Made in Python. Run compress.py to start the script. You also have to install FF
 
 
 [Watch the full video on Vimeo here](https://player.vimeo.com/video/529963832 "Watch the full video on Vimeo here")
+
+
+[Releases](https://github.com/zeopticz/file-compressor/releases "Releases")
